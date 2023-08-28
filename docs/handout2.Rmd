@@ -48,6 +48,7 @@ Demostración gráfica
 
 
 ## Ejemplo 1: Un modelo de la economía política del gasto público  
+* Romer y Rosenthal (1979)  
 * Este paper es una aplicación de juego secuencial con información perfecta
 * Tema: Aprobación de presupuesto
 * Poder de agenda bajo certidumbre y la importancia del punto de reversión
@@ -85,6 +86,7 @@ Constatación:
 * Ahora, una constatación: Usualmente las votaciones no terminan con una simple mayoría a favor si no más 56%, 65%, 72%, etc. ¿Qué podría explicar ese fenómeno?  
 
 ## Ejemplo 2: Un modelo de distribución de beneficios entre legisladores  
+* Baron y Ferejohn (1989)  
 * No siempre las ventajas se obtienen de reglas especiales que dan poder (ej. Agenda setting).  
 * Regla abierta, N individuos: Bajo Arrow no hay equilibrio  
 * Agrega secuencialidad (institución) y B&F encuentran equilibrio.  
