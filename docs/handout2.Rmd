@@ -81,9 +81,6 @@ Implicancia:
 
 * En programas gubernamentales se suele gastar más allá de lo que desearía el votante mediano.  
 
-Constatación:
-
-* Ahora, una constatación: Usualmente las votaciones no terminan con una simple mayoría a favor si no más 56%, 65%, 72%, etc. ¿Qué podría explicar ese fenómeno?  
 
 ## Ejemplo 2: Un modelo de distribución de beneficios entre legisladores  
 * Baron y Ferejohn (1989)  
@@ -96,8 +93,8 @@ Constatación:
   + Sorteo: Todos tienen probabilidad 1/N de ser quien propone una distribución
   + Una proposición es un vector de distribución del bien ($x_1,x_2,…,x_n$)
   + Decisión: 
-    Si eres proponente -> qué vector
-    Si no eres -> a favor o en contra
+    Si eres proponente -> qué vector  
+    Si no eres -> a favor o en contra  
     
     Mayoría simple:
       Si hay mayoría, se aprueba, fin.
@@ -113,7 +110,7 @@ Constatación:
       No aceptar y quedar fuera de todo en siguiente ronda  
   + Escenario 1:
       No aceptar y ser seleccionado en siguiente ronda  
-      $\frac{1}{N}(1- \sum s_j$, $\forall j \epsilon M^*$  
+      $\frac{1}{N}(1- \sum s_j)$, $\forall j \epsilon M^*$  
       Los miembros de $M^*$ aceptarían si y solo si:  
       $\delta s_j^{t+1} \le s_j^t$
       Por ende, $j$ obtendría: $s_j = \frac{1}{N}(1- \frac{(N-1)}{2})\delta s_j^{t+1}$  
@@ -129,7 +126,11 @@ Constatación:
   Por ende, el valor esperado $E(s_j) = \frac{1}{N}(1- \frac{(N-1)}{2})\delta s_j^{t+1} + \frac{(N-1)}{2N}\delta s_j^{t+1}$  
   $E(s_j) =   \frac{1}{N}$  
   
-  Los individuos en $M^*$ aceptarán si  $s_j^t > \frac {\delta^{t+1}}{N}$
+  Los individuos en $M^*$ aceptarán si  $s_j^t > \frac {\delta^{t+1}}{N}$  
+  
+  Constatación:
+
+* Ahora, una constatación: Usualmente las votaciones no terminan con una simple mayoría a favor si no más 56%, 65%, 72%, etc. ¿Qué podría explicar ese fenómeno?  
   
 ## Implicancias  
   * La introducción de (a) reglas de secuencialidad y (b) tasa de descuento genera un equilibrio.  
